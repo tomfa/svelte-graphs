@@ -78,6 +78,13 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
+"@sveltejs/pancake@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@sveltejs/pancake/-/pancake-0.0.18.tgz#d126983723aaee62b46804ec180a0e19dd930118"
+  integrity sha512-vnpKn+sHE0yvw/6x4juF9EoDS8iYC5JNIVtRgclA37rfxdnIpvbVxStiZ5/gWncjERN4jtSpTAplS1zCARCBXA==
+  dependencies:
+    yootils "0.0.16"
+
 "@tsconfig/svelte@^1.0.0":
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/@tsconfig/svelte/-/svelte-1.0.10.tgz#30ec7feeee0bdf38b12a50f0686f8a2e7b6b9dc0"
@@ -1029,3 +1036,8 @@ ws@^7.4.3:
   version "7.4.5"
   resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.5.tgz#a484dd851e9beb6fdb420027e3885e8ce48986c1"
   integrity sha512-xzyu3hFvomRfXKH8vOFMU3OguG6oOvhXMo3xsGy3xWExqaM2dxBbVxuD99O7m3ZUFMvvscsZDqxfgMaRr/Nr1g==
+
+yootils@0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/yootils/-/yootils-0.0.16.tgz#4a41acf7f0c333c8508e72b046b0c749171b9de8"
+  integrity sha512-aIVecm5ucOzwhtKbl0zkfg0ZSOUR9c2da0k8cIc9umjjzkvVCWUUX/UHZ1CLPsv4wmJLqt0aWeLB7p9n9JDwYQ==
